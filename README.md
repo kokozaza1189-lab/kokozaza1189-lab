@@ -10,7 +10,7 @@
   <tr>
     <td width="34%" valign="top">
 
-### 👤 Profile Snapshot
+### 👤 Profile
 - **Name:** Paisan[cite: 1, 5]
 - **Handle:** `@kokozaza1189-lab`[cite: 1, 5]
 - **Focus:** Web, AI & Data/Systems[cite: 1, 5]
