@@ -11,10 +11,10 @@
     <td width="34%" valign="top">
 
 ### 👤 Profile
-- **Name:** Paisan[cite: 1, 5]
-- **Handle:** `@kokozaza1189-lab`[cite: 1, 5]
-- **Focus:** Web, AI & Data/Systems[cite: 1, 5]
-- **Style:** Analytical & Detail-Oriented[cite: 5]
+- **Name:** Paisan
+- **Handle:** `@kokozaza1189-lab`
+- **Focus:** Web, AI & Data/Systems
+- **Style:** Analytical & Detail-Oriented
 
 <br/>
 
@@ -41,12 +41,12 @@
     <td width="66%" valign="top">
 
 ### 🎯 แนวทางการทำงานและสิ่งที่สนใจ
-ผมชอบมองภาพรวมของระบบ แกะรายละเอียดเชิงลึก และทดลองสร้างเครื่องมือหรือเว็บแอปที่ใช้งานได้จริง โดยเน้นความแม่นยำ โครงสร้างที่ชัดเจน และการต่อยอดได้ในระยะยาว[cite: 5]
+ผมชอบมองภาพรวมของระบบ แกะรายละเอียดเชิงลึก และทดลองสร้างเครื่องมือหรือเว็บแอปที่ใช้งานได้จริง โดยเน้นความแม่นยำ โครงสร้างที่ชัดเจน และการต่อยอดได้ในระยะยาว
 
 ### 🚀 Current Tracks
-- **Web & AI Projects:** พัฒนาเว็บแอปพลิเคชันและระบบช่วยทำงานด้าน AI[cite: 1, 5]
-- **System & Data Analysis:** วิเคราะห์โครงสร้างข้อมูล เงื่อนไข และตัวแปรต่างๆ อย่างเป็นระบบ[cite: 5]
-- **Continuous Lab:** ทดลองฟีเจอร์ใหม่ๆ และเก็บคลังโค้ดใน `kokozaza1189-lab`[cite: 1, 5]
+- **Web & AI Projects:** พัฒนาเว็บแอปพลิเคชันและระบบช่วยทำงานด้าน AI
+- **System & Data Analysis:** วิเคราะห์โครงสร้างข้อมูล เงื่อนไข และตัวแปรต่างๆ อย่างเป็นระบบ
+- **Continuous Lab:** ทดลองฟีเจอร์ใหม่ๆ และเก็บคลังโค้ดใน `kokozaza1189-lab`
 
 ### 📈 Activity & Metrics
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kokozaza1189-lab&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak" />
