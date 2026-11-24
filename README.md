@@ -12,5 +12,5 @@
 - ชอบวิเคราะห์ข้อมูลและระบบต่างๆ อย่างละเอียด
 
 ### 📫 ช่องทางติดต่อ
-- GitHub: https://github.com/[Paisan]
+- GitHub: https://github.com/[kokozaza1189-lab]
 - Email: [kokozaza1189@gmail.com]
